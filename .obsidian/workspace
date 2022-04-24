@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "eea89aeb4da98913",
+    "type": "split",
+    "children": [
+      {
+        "id": "b46b0d5318cd37f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02. An Introduction to Microservices Principle and Concepts/02. Micro and Macro Architecture.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ab071efb46e118d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d2af1f2b9aa8b9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ed3e1654d4fc9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "11d0fd342ffd0144",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217
+  },
+  "right": {
+    "id": "3d8df509b7503f9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "61ea7bbae15eafca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "798b736a52088e49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02. An Introduction to Microservices Principle and Concepts/02. Micro and Macro Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b46b0d5318cd37f8",
+  "lastOpenFiles": [
+    "02. An Introduction to Microservices Principle and Concepts/02. Micro and Macro Architecture.md"
+  ]
+}
