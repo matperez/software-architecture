@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b46b0d5318cd37f8",
+        "id": "19f3da03ca832ec5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,8 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b46b0d5318cd37f8",
+  "active": "19f3da03ca832ec5",
   "lastOpenFiles": [
-    "02. An Introduction to Microservices Principle and Concepts/02. Micro and Macro Architecture.md"
+    "02. An Introduction to Microservices Principle and Concepts/02. Micro and Macro Architecture.md",
+    "02. An Introduction to Microservices Principle and Concepts/01. Microservices.md",
+    "README.md"
   ]
 }
