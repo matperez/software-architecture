@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "09160f9a1256ddae",
+        "id": "d123392da6ff8423",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03. Microservice Architecture, Practical Implementation/02.  Frontend Integration.md",
+            "file": "03. Microservice Architecture, Practical Implementation/03. Links and Client-side Intergration.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.00482177734375
+    "width": 304.00482177734375,
+    "collapsed": true
   },
   "right": {
     "id": "3d8df509b7503f9c",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Microservice Architecture, Practical Implementation/02.  Frontend Integration.md",
+                "file": "03. Microservice Architecture, Practical Implementation/03. Links and Client-side Intergration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +88,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09160f9a1256ddae",
+  "active": "d123392da6ff8423",
   "lastOpenFiles": [
+    "03. Microservice Architecture, Practical Implementation/03. Links and Client-side Intergration.md",
     "03. Microservice Architecture, Practical Implementation/02.  Frontend Integration.md",
     "03. Microservice Architecture, Practical Implementation/01. Self-contained Systems.md",
     "02. An Introduction to Microservices Principle and Concepts/04. Technical Micro Architectute.md",
@@ -97,7 +99,6 @@
     "02. An Introduction to Microservices Principle and Concepts/01. Microservices.md",
     "02. An Introduction to Microservices Principle and Concepts/03. Migration.md",
     "02. An Introduction to Microservices Principle and Concepts/attachments/Pasted image 20220424144831.png",
-    "02. An Introduction to Microservices Principle and Concepts/attachments/Pasted image 20220424161258.png",
-    "02. An Introduction to Microservices Principle and Concepts/attachments/Pasted image 20220424162156.png"
+    "02. An Introduction to Microservices Principle and Concepts/attachments/Pasted image 20220424161258.png"
   ]
 }
