@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03. Microservice Architecture, Practical Implementation/05. Asyncronous Microservices.md",
+            "file": "03. Microservice Architecture, Practical Implementation/06. Messaging and Kafka.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Microservice Architecture, Practical Implementation/05. Asyncronous Microservices.md",
+                "file": "03. Microservice Architecture, Practical Implementation/06. Messaging and Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "d123392da6ff8423",
   "lastOpenFiles": [
+    "03. Microservice Architecture, Practical Implementation/06. Messaging and Kafka.md",
     "03. Microservice Architecture, Practical Implementation/05. Asyncronous Microservices.md",
     "03. Microservice Architecture, Practical Implementation/04. Server-side Integration using Edge Side Includes.md",
     "03. Microservice Architecture, Practical Implementation/03. Links and Client-side Intergration.md",
@@ -98,7 +99,6 @@
     "02. An Introduction to Microservices Principle and Concepts/04. Technical Micro Architectute.md",
     "attachment/Pasted image 20220424212246.png.md",
     "02. An Introduction to Microservices Principle and Concepts/02. Micro and Macro Architecture.md",
-    "02. An Introduction to Microservices Principle and Concepts/01. Microservices.md",
-    "02. An Introduction to Microservices Principle and Concepts/03. Migration.md"
+    "02. An Introduction to Microservices Principle and Concepts/01. Microservices.md"
   ]
 }
