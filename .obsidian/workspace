@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d123392da6ff8423",
+        "id": "d02ff79674044041",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03. Microservice Architecture, Practical Implementation/06. Messaging and Kafka.md",
+            "file": "03. Microservice Architecture, Practical Implementation/08. Synchronous Microservices.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Microservice Architecture, Practical Implementation/06. Messaging and Kafka.md",
+                "file": "03. Microservice Architecture, Practical Implementation/08. Synchronous Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d123392da6ff8423",
+  "active": "d02ff79674044041",
   "lastOpenFiles": [
+    "03. Microservice Architecture, Practical Implementation/08. Synchronous Microservices.md",
+    "03. Microservice Architecture, Practical Implementation/07. Asyncronous Communication with Atom and REST.md",
     "03. Microservice Architecture, Practical Implementation/06. Messaging and Kafka.md",
     "03. Microservice Architecture, Practical Implementation/05. Asyncronous Microservices.md",
     "03. Microservice Architecture, Practical Implementation/04. Server-side Integration using Edge Side Includes.md",
@@ -97,8 +99,6 @@
     "03. Microservice Architecture, Practical Implementation/02.  Frontend Integration.md",
     "03. Microservice Architecture, Practical Implementation/01. Self-contained Systems.md",
     "02. An Introduction to Microservices Principle and Concepts/04. Technical Micro Architectute.md",
-    "attachment/Pasted image 20220424212246.png.md",
-    "02. An Introduction to Microservices Principle and Concepts/02. Micro and Macro Architecture.md",
-    "02. An Introduction to Microservices Principle and Concepts/01. Microservices.md"
+    "attachment/Pasted image 20220424212246.png.md"
   ]
 }
