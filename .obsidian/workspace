@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03. Microservice Architecture, Practical Implementation/11. Microservices Platform.md",
+            "file": "03. Microservice Architecture, Practical Implementation/13. PaaS with Cloud Foundry.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Microservice Architecture, Practical Implementation/11. Microservices Platform.md",
+                "file": "03. Microservice Architecture, Practical Implementation/13. PaaS with Cloud Foundry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,8 @@
   },
   "active": "d02ff79674044041",
   "lastOpenFiles": [
+    "03. Microservice Architecture, Practical Implementation/13. PaaS with Cloud Foundry.md",
+    "03. Microservice Architecture, Practical Implementation/12. Docker Containers with Kubernetes.md",
     "03. Microservice Architecture, Practical Implementation/11. Microservices Platform.md",
     "03. Microservice Architecture, Practical Implementation/10. REST with Consul and Apache httpd.md",
     "03. Microservice Architecture, Practical Implementation/08. Synchronous Microservices.md",
@@ -97,8 +99,6 @@
     "03. Microservice Architecture, Practical Implementation/06. Messaging and Kafka.md",
     "03. Microservice Architecture, Practical Implementation/05. Asyncronous Microservices.md",
     "03. Microservice Architecture, Practical Implementation/04. Server-side Integration using Edge Side Includes.md",
-    "03. Microservice Architecture, Practical Implementation/03. Links and Client-side Intergration.md",
-    "03. Microservice Architecture, Practical Implementation/02.  Frontend Integration.md",
-    "03. Microservice Architecture, Practical Implementation/01. Self-contained Systems.md"
+    "03. Microservice Architecture, Practical Implementation/03. Links and Client-side Intergration.md"
   ]
 }
