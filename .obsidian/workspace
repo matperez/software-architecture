@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03. Microservice Architecture, Practical Implementation/08. Synchronous Microservices.md",
+            "file": "03. Microservice Architecture, Practical Implementation/11. Microservices Platform.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Microservice Architecture, Practical Implementation/08. Synchronous Microservices.md",
+                "file": "03. Microservice Architecture, Practical Implementation/11. Microservices Platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,8 @@
   },
   "active": "d02ff79674044041",
   "lastOpenFiles": [
+    "03. Microservice Architecture, Practical Implementation/11. Microservices Platform.md",
+    "03. Microservice Architecture, Practical Implementation/10. REST with Consul and Apache httpd.md",
     "03. Microservice Architecture, Practical Implementation/08. Synchronous Microservices.md",
     "03. Microservice Architecture, Practical Implementation/07. Asyncronous Communication with Atom and REST.md",
     "03. Microservice Architecture, Practical Implementation/06. Messaging and Kafka.md",
@@ -97,8 +99,6 @@
     "03. Microservice Architecture, Practical Implementation/04. Server-side Integration using Edge Side Includes.md",
     "03. Microservice Architecture, Practical Implementation/03. Links and Client-side Intergration.md",
     "03. Microservice Architecture, Practical Implementation/02.  Frontend Integration.md",
-    "03. Microservice Architecture, Practical Implementation/01. Self-contained Systems.md",
-    "02. An Introduction to Microservices Principle and Concepts/04. Technical Micro Architectute.md",
-    "attachment/Pasted image 20220424212246.png.md"
+    "03. Microservice Architecture, Practical Implementation/01. Self-contained Systems.md"
   ]
 }
