@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03. Microservice Architecture, Practical Implementation/13. PaaS with Cloud Foundry.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.00482177734375,
-    "collapsed": true
+    "width": 304.00482177734375
   },
   "right": {
     "id": "3d8df509b7503f9c",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Microservice Architecture, Practical Implementation/13. PaaS with Cloud Foundry.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +89,7 @@
   },
   "active": "d02ff79674044041",
   "lastOpenFiles": [
+    "README.md",
     "03. Microservice Architecture, Practical Implementation/13. PaaS with Cloud Foundry.md",
     "03. Microservice Architecture, Practical Implementation/12. Docker Containers with Kubernetes.md",
     "03. Microservice Architecture, Practical Implementation/11. Microservices Platform.md",
@@ -98,7 +98,6 @@
     "03. Microservice Architecture, Practical Implementation/07. Asyncronous Communication with Atom and REST.md",
     "03. Microservice Architecture, Practical Implementation/06. Messaging and Kafka.md",
     "03. Microservice Architecture, Practical Implementation/05. Asyncronous Microservices.md",
-    "03. Microservice Architecture, Practical Implementation/04. Server-side Integration using Edge Side Includes.md",
-    "03. Microservice Architecture, Practical Implementation/03. Links and Client-side Intergration.md"
+    "03. Microservice Architecture, Practical Implementation/04. Server-side Integration using Edge Side Includes.md"
   ]
 }
